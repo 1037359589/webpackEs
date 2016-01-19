@@ -6,6 +6,7 @@ var css=require("../css/style.css");
 var $=require('jquery');
 var React=require('react');
 var ReactDOM=require('react-dom');
+var io = require('socket.io')(80);
 var [a, b, c] = [2, 4, 8];
 console.log(a,b,c);
 define('myModule',['jquery'],function($){
@@ -27,6 +28,13 @@ define('myModule',['jquery'],function($){
     ReactDOM.render(
         <ContentMode/>,document.getElementById("main")
     );
+
+    io.on("connection",function(socket){
+        //链接成功
+        socket.on('disconnect',function(){
+           alert('用户已离开!!')
+        })
+    });
 });
 
 

@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc6b0241-2b77-4dd8-9691-8d036caaa6fc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/style.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile-compiled.js" afterPath="$PROJECT_DIR$/dist/es-compile-compiled.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile-compiled.js.map" afterPath="$PROJECT_DIR$/dist/es-compile-compiled.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile..min-compiled.js" afterPath="$PROJECT_DIR$/dist/es-compile..min-compiled.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile..min-compiled.js.map" afterPath="$PROJECT_DIR$/dist/es-compile..min-compiled.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile..min.js" afterPath="$PROJECT_DIR$/dist/es-compile..min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dest/es-compile.js" afterPath="$PROJECT_DIR$/dist/es-compile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/room.jpg" afterPath="$PROJECT_DIR$/assets/img/room.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/content.js" afterPath="$PROJECT_DIR$/assets/js/content.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/es6.js" afterPath="$PROJECT_DIR$/assets/js/es6.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/react-dom.min.js" afterPath="$PROJECT_DIR$/assets/plugins/react-dom.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/react-with-addons.min.js" afterPath="$PROJECT_DIR$/assets/plugins/react-with-addons.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugins/react.min.js" afterPath="$PROJECT_DIR$/assets/plugins/react.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-compiled.js" afterPath="$PROJECT_DIR$/common-compiled.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-compiled.js.map" afterPath="$PROJECT_DIR$/common-compiled.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common.js" afterPath="$PROJECT_DIR$/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config-compiled.js" afterPath="$PROJECT_DIR$/webpack.config-compiled.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config-compiled.js.map" afterPath="$PROJECT_DIR$/webpack.config-compiled.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/es6.js" afterPath="$PROJECT_DIR$/assets/js/es6.js" />
     </list>
     <ignored path="webpackEs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,11 +37,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="es6.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/es6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6549296">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.57042253">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -199,6 +187,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webpackEs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webpackEs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -288,9 +290,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -630,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/room.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -717,10 +711,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/es6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6549296">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.57042253">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding />
         </state>
       </provider>
