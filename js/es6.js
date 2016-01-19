@@ -4,7 +4,10 @@
 //var it=require("./content.js");
 var css=require("../css/style.css");
 var $=require('jquery');
-var [a, b, c] = [1, 2, 3];
+
+var React=require('react');
+var ReactDOM=require('react-dom');
+var [a, b, c] = [1, 2, 7];
 console.log(a,b,c);
 define('myModule',['jquery'],function($){
     //if($){
@@ -16,8 +19,8 @@ define('myModule',['jquery'],function($){
     var ContentMode = React.createClass({
         render: function(){
             return (
-                <div className="ContentMode">
-                    <div class="contents">asdasdaasdasdasds</div>
+                <div data-reactid="">
+                    <div className="contents" data-reactid="">asdasdas</div>
                 </div>
             )
         }

@@ -1,6 +1,4 @@
 var webpack = require('webpack');
-var React = require('react');
-var ReactDOM = require('react-dom');
 var commonsPlugin = new webpack.optimize.CommonsChunkPlugin('common.js');
 var uglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 
