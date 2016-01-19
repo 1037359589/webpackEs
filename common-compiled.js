@@ -8,7 +8,7 @@
       o = { 1: 0 };t.e = function (e, n) {
     if (0 === o[e]) return n.call(null, t);if (void 0 !== o[e]) o[e].push(n);else {
       o[e] = [n];var r = document.getElementsByTagName("head")[0],
-          a = document.createElement("script");a.type = "text/javascript", a.charset = "utf-8", a.async = !0, a.src = t.p + "" + e + "../dest/es-compile.js", r.appendChild(a);
+          a = document.createElement("script");a.type = "text/javascript", a.charset = "utf-8", a.async = !0, a.src = t.p + "" + e + "../dist/es-compile.js", r.appendChild(a);
     }
   }, t.m = e, t.c = r, t.p = "";
 })([]);

@@ -4932,10 +4932,10 @@
       <root url="file://$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/.bin/mime-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/react/node_modules/fbjs/node_modules/core-js/modules/$.object-define-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/mime/build/test-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dest/es-compile..min-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/es-compile..min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/react/node_modules/fbjs/node_modules/core-js/modules/$.string-repeat-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/mime/build/build-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dest/es-compile-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/es-compile-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/react/node_modules/fbjs/node_modules/core-js/modules/es6.reflect.has-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/mime/cli-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/react/node_modules/fbjs/node_modules/core-js/modules/es6.object.seal-compiled.js" />

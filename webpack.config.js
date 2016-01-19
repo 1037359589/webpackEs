@@ -3,10 +3,10 @@ var commonsPlugin = new webpack.optimize.CommonsChunkPlugin('common.js');
 var uglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 
 module.exports={
-  entry:"./js/es6.js",
+  entry:"./assets/js/es6.js",
   output:{
     path:__dirname,
-    filename:'./dest/es-compile.js'
+    filename:'./dist/es-compile.js'
   },
   module:{
     loaders:[
